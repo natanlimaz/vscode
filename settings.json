@@ -1,0 +1,42 @@
+{
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Min Dark",
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "workbench.statusBar.visible": false,
+    "json.schemas": [
+
+    ],
+
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5, //150% de fontSize
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.minimap.enabled": false,
+    "editor.codeActionsOnSave": {
+
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.env.linux": {},
+    "console-ninja.featureSet": "Community",
+    "git.openRepositoryInParentFolders": "never",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "workbench.activityBar.location": "top",
+    "window.density.editorTabHeight": "compact",
+    "editor.minimap.autohide": true,
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "terminal.integrated.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on"
+}
